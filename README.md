@@ -16,7 +16,7 @@ Maybe. Plaudit (https://plaudit.pub/) already developed the plug-in with ORCID v
 
 ## How can Journals use it?
 
-Brave journals can completely skip classic peer review and move on to real peer review. Papers are no longer accepted / rejected, but after an editorial screening (which can be as though as you want) you can track how much support they receive. Editors can further sumarize the *why?* free text box. Of course, uptake is key here, so creating a supporting community is the first step to make this work, and encourage people to rate papers from their peers.
+Brave journals can completely skip classic peer review and move on to real peer review. Papers are no longer accepted / rejected, but after an editorial screening (which can be as though as you want) you can track how much support they receive. Some journals may want to add a discusion section in case anyone want to expand. In any case, an important feature is that papers can have versions (preprints already have those), so authors with negative feed-back can enhance the paper. Scientists who did not trust the first version can be automatically informed, so they can check the next version if desired. Editors can further sumarize the *why?* free text box to highlight the best papers. Of course, uptake is key here, so creating a supporting community is the first step to make this work, and encourage people to rate papers from their peers.
 
 I would love to integrate this workflow in the Punk-Editors journal. 
 
