@@ -1,4 +1,4 @@
-# PunkReview
+# RealPeerReview
 
 > Value judgments without gatekeeping
 
@@ -8,7 +8,8 @@
 2. To prevent non-scientists (i.e. evil bots) to use it, an authentication via ORCID should work.  
 3. It has to be simple. Hence, the simplest question you need to answer is, *Do you trust this paper?*. A second question related to trust is *"Is it reproducible?"*. Those are Yes/No questions. A *Why* 150 words-max will complement those questions. Finally, ranking (e.g. one to five stars) its main assets is useful: Data, Ideas, Controversial (this three axes can be refined). This is fast to perform for reviewers if you have read the paper.    
 4. All information should be traceable and transparent.   
-5. With this information, you can simply add a badge to the paper with the summary. e.g. "13/16 scientists trust this paper and its main asset is the data quality with an average of 4.8 stars". More complex *ad hoc* metrics can be calculated like who is endorsing you paper, etc...     
+5. With this information, you can simply add a badge to the paper with the summary. e.g. "13/16 scientists trust this paper and its main asset is the data quality with an average of 4.8 stars". More complex *ad hoc* metrics can be calculated like who is endorsing you paper, etc...
+6. For this to work you need to build a community     
 
 ## Is something like that already there?
 
